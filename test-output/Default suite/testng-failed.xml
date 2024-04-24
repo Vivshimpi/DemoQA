@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testPack.TC02_VerifyTextBoxFunctionality">
+      <class name="testPack.TC03_VerifyCheckBoxFunctionality">
         <methods>
           <include name="tearDown"/>
-          <include name="VerifyTextBoxFunctionality"/>
+          <include name="verifyCheckBoxFunctionality"/>
           <include name="preMethod"/>
         </methods>
-      </class> <!-- testPack.TC02_VerifyTextBoxFunctionality -->
+      </class> <!-- testPack.TC03_VerifyCheckBoxFunctionality -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

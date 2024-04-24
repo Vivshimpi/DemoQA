@@ -1,5 +1,6 @@
 package testPack;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import pomPack.ElementsPOMClass;
@@ -46,8 +47,12 @@ public void VerifyTextBoxFunctionality() throws InterruptedException
 	log.info("clicked on submit button");
 	Thread.sleep(1000);
 	
+	log.info("Apply validation");
 	
+	String expectedMsg = "Name:Manish Malhotra";
+	String actualMsg = ep.getTextNameMsg();
 	
+	Assert.assertEquals(actualMsg, expectedMsg, actualMsg);
 	
 	
 	

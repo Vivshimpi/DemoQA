@@ -3,8 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testPack.TC01_VerifyElementsFunctionality"/>
-      <class name="testPack.TC02_VerifyTextBoxFunctionality"/>
+          <class name="testPack.TC01_VerifyElementsFunctionality"/>
+          <class name="testPack.TC02_VerifyTextBoxFunctionality"/>
+          <class name="testPack.TC03_VerifyCheckBoxFunctionality"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

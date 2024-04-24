@@ -65,3 +65,99 @@
 2024-04-17 09:49:14,286  INFO [main] DemoQA:46 - clicked on submit button
 2024-04-17 09:49:15,471  INFO [main] DemoQA:49 - browser is closed
 2024-04-17 09:49:15,472  INFO [main] DemoQA:50 - End of Script
+2024-04-24 18:43:25,070  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 18:43:26,136  INFO [main] DemoQA:31 - Browser is maximized
+2024-04-24 18:43:39,427  INFO [main] DemoQA:35 - URL is opened
+2024-04-24 18:43:40,670  INFO [main] DemoQA:40 - HomePageSnap is Taken
+2024-04-24 18:43:41,931  INFO [main] DemoQA:18 - clicked on elements cards
+2024-04-24 18:43:43,468  INFO [main] DemoQA:24 - aplly verification
+2024-04-24 18:43:43,860  INFO [main] DemoQA:49 - browser is closed
+2024-04-24 18:43:43,860  INFO [main] DemoQA:50 - End of Script
+2024-04-24 18:43:45,618  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 18:43:46,702  INFO [main] DemoQA:31 - Browser is maximized
+2024-04-24 18:43:52,652  INFO [main] DemoQA:35 - URL is opened
+2024-04-24 18:43:53,876  INFO [main] DemoQA:40 - HomePageSnap is Taken
+2024-04-24 18:43:55,059  INFO [main] DemoQA:21 - clicked on elements cards
+2024-04-24 18:43:56,679  INFO [main] DemoQA:25 - clicked on Text Box
+2024-04-24 18:43:57,877  INFO [main] DemoQA:29 - Entered Full Name
+2024-04-24 18:43:59,169  INFO [main] DemoQA:33 - Entered email
+2024-04-24 18:44:00,377  INFO [main] DemoQA:37 - Entered cAddress
+2024-04-24 18:44:01,586  INFO [main] DemoQA:42 - Entered pAddress
+2024-04-24 18:44:02,683  INFO [main] DemoQA:46 - clicked on submit button
+2024-04-24 18:44:04,102  INFO [main] DemoQA:49 - browser is closed
+2024-04-24 18:44:04,102  INFO [main] DemoQA:50 - End of Script
+2024-04-24 18:47:10,367  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 18:47:11,448  INFO [main] DemoQA:31 - Browser is maximized
+2024-04-24 18:47:13,573  INFO [main] DemoQA:35 - URL is opened
+2024-04-24 18:47:14,760  INFO [main] DemoQA:40 - HomePageSnap is Taken
+2024-04-24 18:47:48,308  INFO [main] DemoQA:49 - browser is closed
+2024-04-24 18:47:48,308  INFO [main] DemoQA:50 - End of Script
+2024-04-24 18:47:49,880  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 18:48:09,704  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 18:48:10,782  INFO [main] DemoQA:31 - Browser is maximized
+2024-04-24 18:48:23,871  INFO [main] DemoQA:35 - URL is opened
+2024-04-24 18:48:25,115  INFO [main] DemoQA:40 - HomePageSnap is Taken
+2024-04-24 18:48:26,338  INFO [main] DemoQA:18 - clicked on elements cards
+2024-04-24 18:48:27,737  INFO [main] DemoQA:24 - aplly verification
+2024-04-24 18:48:28,079  INFO [main] DemoQA:49 - browser is closed
+2024-04-24 18:48:28,079  INFO [main] DemoQA:50 - End of Script
+2024-04-24 18:48:29,494  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 18:48:30,583  INFO [main] DemoQA:31 - Browser is maximized
+2024-04-24 18:48:42,722  INFO [main] DemoQA:35 - URL is opened
+2024-04-24 18:48:44,098  INFO [main] DemoQA:40 - HomePageSnap is Taken
+2024-04-24 18:48:45,475  INFO [main] DemoQA:21 - clicked on elements cards
+2024-04-24 18:48:46,795  INFO [main] DemoQA:25 - clicked on Text Box
+2024-04-24 18:48:48,059  INFO [main] DemoQA:29 - Entered Full Name
+2024-04-24 18:48:49,377  INFO [main] DemoQA:33 - Entered email
+2024-04-24 18:48:50,500  INFO [main] DemoQA:37 - Entered cAddress
+2024-04-24 18:48:51,678  INFO [main] DemoQA:42 - Entered pAddress
+2024-04-24 18:48:52,888  INFO [main] DemoQA:46 - clicked on submit button
+2024-04-24 18:48:54,283  INFO [main] DemoQA:49 - browser is closed
+2024-04-24 18:48:54,284  INFO [main] DemoQA:50 - End of Script
+2024-04-24 18:51:18,863  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 18:51:19,959  INFO [main] DemoQA:31 - Browser is maximized
+2024-04-24 18:51:22,066  INFO [main] DemoQA:35 - URL is opened
+2024-04-24 19:39:52,229  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 19:39:53,301  INFO [main] DemoQA:31 - Browser is maximized
+2024-04-24 19:40:03,605  INFO [main] DemoQA:35 - URL is opened
+2024-04-24 19:40:04,924  INFO [main] DemoQA:40 - HomePageSnap is Taken
+2024-04-24 19:40:06,193  INFO [main] DemoQA:22 - clicked on elements cards
+2024-04-24 19:40:07,461  INFO [main] DemoQA:26 - clicked on Text Box
+2024-04-24 19:40:08,815  INFO [main] DemoQA:30 - Entered Full Name
+2024-04-24 19:40:10,097  INFO [main] DemoQA:34 - Entered email
+2024-04-24 19:40:11,241  INFO [main] DemoQA:38 - Entered cAddress
+2024-04-24 19:40:12,422  INFO [main] DemoQA:43 - Entered pAddress
+2024-04-24 19:40:13,541  INFO [main] DemoQA:47 - clicked on submit button
+2024-04-24 19:40:14,551  INFO [main] DemoQA:50 - Apply validation
+2024-04-24 19:40:14,963  INFO [main] DemoQA:49 - browser is closed
+2024-04-24 19:40:14,963  INFO [main] DemoQA:50 - End of Script
+2024-04-24 19:42:35,310  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 19:42:36,397  INFO [main] DemoQA:31 - Browser is maximized
+2024-04-24 19:42:46,853  INFO [main] DemoQA:35 - URL is opened
+2024-04-24 19:42:48,102  INFO [main] DemoQA:40 - HomePageSnap is Taken
+2024-04-24 19:42:49,343  INFO [main] DemoQA:22 - clicked on elements cards
+2024-04-24 19:42:50,475  INFO [main] DemoQA:26 - clicked on Text Box
+2024-04-24 19:42:51,702  INFO [main] DemoQA:30 - Entered Full Name
+2024-04-24 19:42:53,024  INFO [main] DemoQA:34 - Entered email
+2024-04-24 19:42:54,182  INFO [main] DemoQA:38 - Entered cAddress
+2024-04-24 19:42:55,455  INFO [main] DemoQA:43 - Entered pAddress
+2024-04-24 19:42:56,610  INFO [main] DemoQA:47 - clicked on submit button
+2024-04-24 19:42:57,620  INFO [main] DemoQA:50 - Apply validation
+2024-04-24 19:42:58,181  INFO [main] DemoQA:49 - browser is closed
+2024-04-24 19:42:58,181  INFO [main] DemoQA:50 - End of Script
+2024-04-24 19:53:46,157  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 19:53:47,254  INFO [main] DemoQA:31 - Browser is maximized
+2024-04-24 19:53:49,057  INFO [main] DemoQA:35 - URL is opened
+2024-04-24 19:53:50,253  INFO [main] DemoQA:40 - HomePageSnap is Taken
+2024-04-24 19:54:05,581  INFO [main] DemoQA:49 - browser is closed
+2024-04-24 19:54:05,582  INFO [main] DemoQA:50 - End of Script
+2024-04-24 19:54:22,077  INFO [main] DemoQA:25 - Browser is opened
+2024-04-24 19:54:23,177  INFO [main] DemoQA:31 - Browser is maximized
+2024-04-24 19:54:27,800  INFO [main] DemoQA:35 - URL is opened
+2024-04-24 19:54:29,156  INFO [main] DemoQA:40 - HomePageSnap is Taken
+2024-04-24 19:54:30,458  INFO [main] DemoQA:15 - clicked on elements cards
+2024-04-24 19:54:31,774  INFO [main] DemoQA:20 - clicked on elements check box
+2024-04-24 19:54:32,999  INFO [main] DemoQA:24 - clicked on Check Box
+2024-04-24 19:54:34,005  INFO [main] DemoQA:27 - Apply Validation
+2024-04-24 19:54:36,032  INFO [main] DemoQA:49 - browser is closed
+2024-04-24 19:54:36,048  INFO [main] DemoQA:50 - End of Script

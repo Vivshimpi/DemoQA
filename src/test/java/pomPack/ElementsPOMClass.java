@@ -60,6 +60,14 @@ public class ElementsPOMClass
 	  submitBtn.click();
   }
   
+  @FindBy(xpath="//p[text()='Manish Malhotra']")WebElement NameMsg;
+  public String getTextNameMsg()
+  {
+	String actualMsg = NameMsg.getText();
+	return actualMsg;
+	
+  }
+  
   
   
   public ElementsPOMClass(WebDriver driver)
